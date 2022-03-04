@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dbboling
+- 👀 I’m interested in intuitive UIs and streamlined coding
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on projects that serve streamers, cosplayers and gamers
+- 📫 darrien@dboling.com
